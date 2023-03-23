@@ -1,0 +1,5 @@
+firstName,lastName,totalPrice,depositPaid,checkin,checkout,additionalneeds
+Mallory,Champlin,100,TRUE,2018-01-01,2019-01-01,Breakfast
+Mahir,Afsar,200,FALSE,2018-01-02,2019-01-02,Lunch
+Shoishob,Mahir,300,FALSE,2018-01-03,2019-01-03,Dinner
+!@#$%,%^&*!,400,TRUE,2018-01-04,2019-01-04,Breakfast and Lunch
